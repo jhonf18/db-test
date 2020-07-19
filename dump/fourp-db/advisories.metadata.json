@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"fourp-db.advisories"}],"uuid":"3feaea28e1da4f1d9f99c192be057e4c"}

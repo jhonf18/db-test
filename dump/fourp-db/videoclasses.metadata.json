@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"fourp-db.videoclasses"},{"v":{"$numberInt":"2"},"unique":true,"key":{"id":{"$numberInt":"1"}},"name":"id_1","ns":"fourp-db.videoclasses","background":true}],"uuid":"33ff8af1e4384b1d80de5128682eeed7"}

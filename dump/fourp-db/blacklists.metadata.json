@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"fourp-db.blacklists"},{"v":{"$numberInt":"2"},"key":{"__ttl":{"$numberInt":"1"}},"name":"__ttl_1","ns":"fourp-db.blacklists","background":true}],"uuid":"5464279e3faa4dd4bdea829c6b4e1ec0"}
